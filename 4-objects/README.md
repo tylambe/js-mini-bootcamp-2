@@ -106,7 +106,7 @@ Fix the syntax & style issues with the three objects below:
    key/value pairs added above. This is how we create new key/value pairs in
    existing objects.
 
-4. In the console attached to your `main.js` file, add a `favoriteColor`
+4. In the console, add a `favoriteColor`
    key/value pair to the object that represents you.
 
 #### Accessing Values by Key
